@@ -3,13 +3,13 @@ import '../App.css'
 
 import { Button } from './Button'
 import React from 'react'
-import vidBg from '../assets/videos/video-2.mp4'
+import vidBg from '../assets/videos/video-1.mp4'
 
 function HeroSection() {
   return (
     <div className="hero-container">
       <video src={vidBg} autoPlay loop muted />
-      <h1>React Open BOotcamp Started</h1>
+      <h1>React Open BO</h1>
       <p>Lorem, ipsum dolor.</p>
       <div className="hero-btns">
         <Button
