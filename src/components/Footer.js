@@ -58,7 +58,7 @@ function Footer() {
             <Link to="/">Facebook</Link>
             <Link to="/">Twitter</Link>
             <Link to="/">Youtube</Link>
-            <Link to="https://github.com/parikesitad-pm">Github</Link>
+            <a href="https://github.com/parikesitad-pm">Github</a>
           </div>
         </div>
       </div>
@@ -105,14 +105,13 @@ function Footer() {
             >
               <i class="fab fa-youtube"></i>
             </Link>
-            <Link
+            <a
               className="social-icon-link"
-              to="https://github.com/parikesitad-pm"
-              target="_blank"
+              href="https://github.com/parikesitad-pm"
               aria-label="Github"
             >
               <i class="fab fa-github"></i>
-            </Link>
+            </a>
           </div>
         </div>
       </section>
