@@ -95,7 +95,7 @@ function Footer() {
               target="_blank"
               aria-label="Facebook"
             >
-              <i class="fab fa-facebook"></i>
+              <i className="fab fa-facebook"></i>
             </Link>
             <Link
               className="social-icon-link"
@@ -110,7 +110,7 @@ function Footer() {
               href="https://github.com/parikesitad-pm"
               aria-label="Github"
             >
-              <i class="fab fa-github"></i>
+              <i className="fab fa-github"></i>
             </a>
           </div>
         </div>
